@@ -11,3 +11,7 @@ Tecnologías que uso
 5) Postgre SQL
 6) Sequelize
 7) GIT
+
+Estemos en contacto:
+Linkedin: https://www.linkedin.com/in/ruben-vivanco-salazar/
+Email: rernestovsalazar@hotmail.com
