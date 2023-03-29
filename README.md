@@ -13,5 +13,5 @@ Tecnologías que uso
 7) GIT
 
 Estemos en contacto:
-Linkedin: https://www.linkedin.com/in/ruben-vivanco-salazar/
+Linkedin: https://www.linkedin.com/in/rubenvivancosalazar/
 Email: rernestovsalazar@hotmail.com
