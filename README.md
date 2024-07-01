@@ -14,5 +14,5 @@ Hola, soy **Rubén Vivanco**, desarrollador de software y egresado del bootcamp 
 - **Bootstrap**
 - **React-Bootstrap**
 
-Linkedin: https://www.linkedin.com/in/rubenvivancosalazar/
-Email: rernestovsalazar@hotmail.com
+**Linkedin:** https://www.linkedin.com/in/rubenvivancosalazar/
+**Email:** rernestovsalazar@hotmail.com
