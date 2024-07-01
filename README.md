@@ -1,17 +1,18 @@
-<b>BIENVENIDO</b>
+## Sobre mí
 
-Soy Ruben Vivanco, con conocimientos en Desarrollador de Software, ahora egresado del bootcamp de Henry. La programación permite trabajar en equipo, algo que me gusta mucho ya que se pueden intercambiar conocimientos.
+Hola, soy **Rubén Vivanco**, desarrollador de software y egresado del bootcamp de Henry. Me apasiona la programación y disfruto trabajar en equipo, ya que permite el intercambio constante de conocimientos y experiencias.
 
-Tecnologías que uso
-1) Javascript
-2) React JS
-3) Node JS
-4) Express JS
-5) Postgre SQL
-6) Sequelize
-7) GIT
-8) Bootstrap
-9) React - Bootstrap
+## Tecnologías que uso
+
+- **JavaScript**
+- **React JS**
+- **Node JS**
+- **Express JS**
+- **PostgreSQL**
+- **Sequelize**
+- **Git**
+- **Bootstrap**
+- **React-Bootstrap**
 
 Linkedin: https://www.linkedin.com/in/rubenvivancosalazar/
 Email: rernestovsalazar@hotmail.com
