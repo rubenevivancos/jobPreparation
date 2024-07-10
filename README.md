@@ -6,13 +6,17 @@ Hola, soy **Rubén Vivanco**, desarrollador de software y egresado del bootcamp 
 
 - **JavaScript**
 - **React JS**
-- **Node JS**
-- **Express JS**
-- **PostgreSQL**
-- **Sequelize**
-- **Git**
 - **Bootstrap**
 - **React-Bootstrap**
+- **Node JS**
+- **Express JS**
+- **Sequelize**
+- **PostgreSQL**
+- - **Mongoose**
+- **MongoDB**
+- **Git**
+- **GitHub**
+
 
 ## Contacto
 
