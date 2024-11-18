@@ -4,15 +4,15 @@ Hola, soy **Rubén Vivanco**, desarrollador de software y egresado del bootcamp 
 
 ## Tecnologías que uso
 
-| **JavaScript**       | **React JS**       | **Bootstrap**       |
-|----------------------|--------------------|---------------------|
-| **React-Bootstrap**  | **Node JS**        | **Express JS**      |
-| **Sequelize**        | **PostgreSQL**     | **Mongoose**        |
-| **MongoDB**          | **Git**            | **GitHub**          |
+|                    |                   |                    |
+|--------------------|-------------------|--------------------|
+| **JavaScript**     | **React JS**      | **Bootstrap**      |
+| **React-Bootstrap**| **Node JS**       | **Express JS**     |
+| **Sequelize**      | **PostgreSQL**    | **Mongoose**       |
+| **MongoDB**        | **Git**           | **GitHub**         |
 
 ## Contacto
 
 **LinkedIn:** [https://www.linkedin.com/in/rubenvivancosalazar/](https://www.linkedin.com/in/rubenvivancosalazar/)  
 **Email:** rernestovsalazar@hotmail.com
-
 
