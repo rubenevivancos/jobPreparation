@@ -4,7 +4,7 @@ Hola, soy **Rubén Vivanco**, desarrollador de software y egresado del bootcamp 
 <br><br>
 ## Tecnologías que uso
 
-<table>
+<table border="0">
   <tr>
     <td><b>JavaScript</b></td>
     <td><b>React JS</b></td>
