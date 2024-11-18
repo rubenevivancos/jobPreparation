@@ -4,10 +4,28 @@ Hola, soy **Rubén Vivanco**, desarrollador de software y egresado del bootcamp 
 <br><br>
 ## Tecnologías que uso
 
-- **JavaScript**        &nbsp;&nbsp;&nbsp; **React JS**        &nbsp;&nbsp;&nbsp; **Bootstrap**
-- **React-Bootstrap**   &nbsp;&nbsp;&nbsp; **Node JS**         &nbsp;&nbsp;&nbsp; **Express JS**
-- **Sequelize**         &nbsp;&nbsp;&nbsp; **PostgreSQL**      &nbsp;&nbsp;&nbsp; **Mongoose**
-- **MongoDB**           &nbsp;&nbsp;&nbsp; **Git**             &nbsp;&nbsp;&nbsp; **GitHub**
+<table>
+  <tr>
+    <td><b>JavaScript</b></td>
+    <td><b>React JS</b></td>
+    <td><b>Bootstrap</b></td>
+  </tr>
+  <tr>
+    <td><b>React-Bootstrap</b></td>
+    <td><b>Node JS</b></td>
+    <td><b>Express JS</b></td>
+  </tr>
+  <tr>
+    <td><b>Sequelize</b></td>
+    <td><b>PostgreSQL</b></td>
+    <td><b>Mongoose</b></td>
+  </tr>
+  <tr>
+    <td><b>MongoDB</b></td>
+    <td><b>Git</b></td>
+    <td><b>GitHub</b></td>
+  </tr>
+</table>
 
 <br>
 
