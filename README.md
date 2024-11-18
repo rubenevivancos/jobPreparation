@@ -11,7 +11,7 @@ Hola, soy **Rubén Vivanco**, desarrollador de software y egresado del bootcamp 
 | **Sequelize**      | **PostgreSQL**    | **Mongoose**       |
 | **MongoDB**        | **Git**           | **GitHub**         |
 
-<br><br>
+<br>
 ## Contacto
 
 **LinkedIn:** [https://www.linkedin.com/in/rubenvivancosalazar/](https://www.linkedin.com/in/rubenvivancosalazar/)  
