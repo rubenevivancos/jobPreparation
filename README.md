@@ -5,7 +5,6 @@ Hola, soy **Rubén Vivanco**, desarrollador de software y egresado del bootcamp 
 ## Tecnologías que uso
 
 | **JavaScript** | **React JS** | **Bootstrap** |
-|----------------|--------------|---------------|
 | **React-Bootstrap** | **Node JS** | **Express JS** |
 | **Sequelize** | **PostgreSQL** | **Mongoose** |
 | **MongoDB** | **Git** | **GitHub** |
